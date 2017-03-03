@@ -1,0 +1,8 @@
+Usuario Ingreso 
+ User: james, Clave: 12345
+ IP: 127.0.0.1
+ Fecha Ingreso:03/03/17 14:55:34
+Datos de Ingreso 
+ User: admin, Clave: 12345
+ IP: 127.0.0.1
+ Fecha Ingreso:03/03/17 14:59:34
